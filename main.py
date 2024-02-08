@@ -21,4 +21,3 @@ file_name = 'polygon.json'
 
 with open(file_name, 'w') as file:
     json.dump(polygon_data, file, indent=4)
-
